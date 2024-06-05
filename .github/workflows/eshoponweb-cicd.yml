@@ -9,7 +9,7 @@ env:
   LOCATION: EastUS
   TEMPLATE-FILE: infra/webapp1.bicep
   SUBSCRIPTION-ID: 8dbce849-d929-4137-b004-1fe8aecc7968
-  WEBAPP-NAME: eshoponweb-webapp-mkmca
+  WEBAPP-NAME: eshoponweb-webapp-mkmca1
 
 
 jobs:
